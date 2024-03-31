@@ -24,7 +24,9 @@ Screenshots(Desktop View):
 ![image](https://github.com/VedantGodbole/Netflix_Clone/assets/55054701/179766e9-720b-4d55-a492-a3d66c66a645)
 ![image](https://github.com/VedantGodbole/Netflix_Clone/assets/55054701/907769a9-57bf-462c-b65e-491fd660abb7)
 
+
 Mobile View:
+
 ![image](https://github.com/VedantGodbole/Netflix_Clone/assets/55054701/c340f11d-d211-41fc-b44a-ca84718da1ea)
 ![image](https://github.com/VedantGodbole/Netflix_Clone/assets/55054701/058b45dd-0c94-4cee-988f-afb3573bb9ca)
 ![image](https://github.com/VedantGodbole/Netflix_Clone/assets/55054701/1b484aaa-03a7-4550-b04d-3c921794ca58)
